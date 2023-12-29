@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 </h1>
 
 <div align="center">
-  <img src="https://images.app.goo.gl/dWYPSCezMPLQAvBs5" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/FLbMRL3o3FzODu2M0l/giphy.gif" width="600" height="300"/>
 </div>
