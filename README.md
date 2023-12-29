@@ -30,5 +30,6 @@ Here are some ideas to get you started:
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/FLbMRL3o3FzODu2M0l/giphy.gif" width="600" height="300"/>
+  <img src="./images/myimage.png" alt="My Image">
+  <img src="wepik-gradient-file-vaporwave-desktop-wallpaper-20231228155529t287.png" width="600" height="300"/>
 </div>
