@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<div align="center">
+<div align="lwft">
 
   <img src="wepik-gradient-file-vaporwave-desktop-wallpaper-20231228155529t287.png" width="900" height="300"/>
 </div>
