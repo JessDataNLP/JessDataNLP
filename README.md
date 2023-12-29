@@ -17,3 +17,9 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/QGoxu7KIgMPvKFP3ze/giphy.gif" width="250"/>
 </div>
+
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=JessDataNLP&style=flat-square&color=violet" alt=""/>
