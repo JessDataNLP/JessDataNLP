@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 </h1>
 
 <div align="center">
-  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://wepik.com/share/110926f1-209b-460f-9697-19bd2236362b#rs=link)https://wepik.com/share/110926f1-209b-460f-9697-19bd2236362b#rs=link" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
