@@ -30,6 +30,6 @@ Here are some ideas to get you started:
 </h1>
 
 <div align="center">
-  <img src="./images/myimage.png" alt="My Image">
-  <img src="wepik-gradient-file-vaporwave-desktop-wallpaper-20231228155529t287.png" width="600" height="300"/>
+
+  <img src="wepik-gradient-file-vaporwave-desktop-wallpaper-20231228155529t287.png" width="900" height="300"/>
 </div>
