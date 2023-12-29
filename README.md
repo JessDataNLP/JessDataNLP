@@ -30,6 +30,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<div align="center">
-  <img src="https://wepik.com/share/110926f1-209b-460f-9697-19bd2236362b#rs=link" width="600" height="300"/>
-</div>
+<div style="position: relative; width: 100%; height: 0; padding-top:96px; padding-bottom: 56.25%; overflow: hidden; will-change: transform;">
+		<iframe loading="lazy" src="https://wepik.com/share/110926f1-209b-460f-9697-19bd2236362b?embed=1" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"></iframe>
+	</div>
+	
