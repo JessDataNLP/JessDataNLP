@@ -40,16 +40,18 @@ Here are some ideas to get you started:
 
 🔭 Currently working on a couple of projects using NLP with the EU Commission and Amnesty International
 
-📊 Skills at a Glance:
+📊 **Skills at a Glance**:
     Data Analysis: I love digging into data! I've got solid experience in both qualitative and quantitative analysis, especially textual data analysis. NLP, machine learning, and stats - and yes, I speak Python and R fluently!
     Social Media Sleuth: Analyzing social media is my thing. I've spent the last years mastering network analysis and mixed-method textual analysis of social media content.
 
-📈 Learning: 
+📈 **Learning**: 
   LLMS and transformers for text classification and generation
   
-🌐 Human Languages I can have an conversation into (in order of proficency): Italian (:pizza:), English (:statue_of_liberty:), German (:pretzel:), Spanish (:ox:), Russian (:nesting_dolls:), Japanese (:sushi:).
+🌐 **Human Languages** I can have an conversation into (in order of proficency): Italian (:pizza:), English (:statue_of_liberty:), German (:pretzel:), Spanish (:ox:), Russian (:nesting_dolls:), Japanese (:sushi:).
 
-🤝 Open to Collaborate: Got a project that marries political discourse with digital media? I'm your person! I'm always open to innovative and multidisciplinary collaborations. Let's connect and create something amazing!
+🎉 **Hobbies & Interests** 🎮 Video Games (:video_game:), 🗣️ Languages (:books:) 💪 Fitness(:weight_lifter:) 🥁 Drumming (:drum:)
+
+🤝 **Open to Collaborate**: Got a project that marries political discourse with digital media? I'm your person! I'm always open to innovative and multidisciplinary collaborations. Let's connect and create something amazing!
 
 ### :hammer_and_wrench: Languages and Tools
 <div>
@@ -61,6 +63,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="pytorch" alt="pytorch" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-plain-wordmark.svg"  title="pytorch" alt="pytorch" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="r" alt="rt" width="40" height="40"
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="r" alt="rt" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="markdown" alt="markdown" width="40" height="40"/>&nbsp
 </div>
 
