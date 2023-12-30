@@ -59,8 +59,7 @@ Here are some ideas to get you started:
 🤝 **Open to Collaborate**: Got a project that marries political discourse with digital media? I'm your person! I'm always open to innovative and multidisciplinary collaborations. Let's connect and create something amazing!
 
 <div>
-     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</div>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 ### :hammer_and_wrench: Languages and Tools
 <div>
