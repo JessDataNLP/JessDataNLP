@@ -33,3 +33,6 @@ Here are some ideas to get you started:
 
   <img src="wepik-gradient-file-vaporwave-desktop-wallpaper-20231228155529t287.png" width="900" height="300"/>
 </div>
+
+### :woman_technologist: About Me :
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from
