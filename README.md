@@ -34,6 +34,8 @@ Here are some ideas to get you started:
   <img src="wepik-gradient-file-vaporwave-desktop-wallpaper-20231228155529t287.png" width="900" height="300"/>
 </div>
 
+  <img src="https://komarev.com/ghpvc/?username=JessDataNLP&style=flat-square&color=blue" alt=""/>
+</div>
 ### :woman_technologist: About Me :
 
 🔍 I'm a curious and driven political data nerd with a deep dive into the world of online discourse and politics. My background is in the social sciences and politics, I have started coding during the pandemic for my PhD project, since my fieldwork got cancelled.
@@ -46,12 +48,20 @@ Here are some ideas to get you started:
 
 📈 **Learning**: 
   -LLMS and transformers for text classification and generation
+
+<div>
+    <img src="https://komarev.com/ghpvc/?username=JessDataNLP&style=flat-square&color=blue" alt=""/>
+</div>
   
 🌐 **Human Languages** I can have an conversation into (in order of proficency): Italian :pizza: English :statue_of_liberty: German :pretzel: Spanish :ox: Russian :nesting_dolls: Japanese :sushi:.
 
 🎉 **Hobbies & Interests** Video Games 🎮 Languages 🗣️  Sports :running_woman: Drumming :drum:
 
 🤝 **Open to Collaborate**: Got a project that marries political discourse with digital media? I'm your person! I'm always open to innovative and multidisciplinary collaborations. Let's connect and create something amazing!
+
+<div>
+    <img src="https://komarev.com/ghpvc/?username=JessDataNLP&style=flat-square&color=blue" alt=""/>
+</div>
 
 ### :hammer_and_wrench: Languages and Tools
 <div>
