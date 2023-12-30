@@ -41,13 +41,13 @@ Here are some ideas to get you started:
 🔭 Currently working on a couple of projects using NLP with the EU Commission and Amnesty International
 
 📊 **Skills at a Glance**:
-    Data Analysis: I love digging into data! I've got solid experience in both qualitative and quantitative analysis, especially textual data analysis. NLP, machine learning, and stats - and yes, I speak Python and R fluently!
-    Social Media Sleuth: Analyzing social media is my thing. I've spent the last years mastering network analysis and mixed-method textual analysis of social media content.
+    -Data Analysis: I love digging into data! I've got solid experience in both qualitative and quantitative analysis, especially textual data analysis. NLP, machine learning, and stats - and yes, I speak Python and R fluently!
+    -Social Media Sleuth: Analyzing social media is my thing. I've spent the last years mastering network analysis and mixed-method textual analysis of social media content.
 
 📈 **Learning**: 
-  LLMS and transformers for text classification and generation
+  -LLMS and transformers for text classification and generation
   
-🌐 **Human Languages** I can have an conversation into (in order of proficency): Italian :pizza:, English :statue_of_liberty:, German :pretzel:, Spanish :ox:, Russian :nesting_dolls:, Japanese :sushi:.
+🌐 **Human Languages** I can have an conversation into (in order of proficency): Italian :pizza: English :statue_of_liberty: German :pretzel: Spanish :ox: Russian :nesting_dolls: Japanese :sushi:.
 
 🎉 **Hobbies & Interests** Video Games 🎮 Languages 🗣️  Sports :running_woman: Drumming :drum:
 
