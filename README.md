@@ -67,3 +67,5 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="markdown" alt="markdown" width="40" height="40"/>&nbsp
 </div>
 
+### My Stats :bar_chart:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JessDataNLP&theme=dark&background=000000)](https://git.io/streak-stats)
