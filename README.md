@@ -47,9 +47,9 @@ Here are some ideas to get you started:
 📈 **Learning**: 
   LLMS and transformers for text classification and generation
   
-🌐 **Human Languages** I can have an conversation into (in order of proficency): Italian (:pizza:), English (:statue_of_liberty:), German (:pretzel:), Spanish (:ox:), Russian (:nesting_dolls:), Japanese (:sushi:).
+🌐 **Human Languages** I can have an conversation into (in order of proficency): Italian :pizza:, English :statue_of_liberty:, German :pretzel:, Spanish :ox:, Russian :nesting_dolls:, Japanese :sushi:.
 
-🎉 **Hobbies & Interests** Video Games (:video_game:), Languages (:books:)  Fitness(:weight_lifter:) Drumming (:drum:)
+🎉 **Hobbies & Interests** Video Games 🎮 Languages 🗣️  Sports :running_woman: Drumming :drum:
 
 🤝 **Open to Collaborate**: Got a project that marries political discourse with digital media? I'm your person! I'm always open to innovative and multidisciplinary collaborations. Let's connect and create something amazing!
 
