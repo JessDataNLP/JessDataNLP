@@ -34,8 +34,7 @@ Here are some ideas to get you started:
   <img src="wepik-gradient-file-vaporwave-desktop-wallpaper-20231228155529t287.png" width="900" height="300"/>
 </div>
 
-  <img src="https://komarev.com/ghpvc/?username=JessDataNLP&style=flat-square&color=blue" alt=""/>
-</div>
+
 ### :woman_technologist: About Me :
 
 🔍 I'm a curious and driven political data nerd with a deep dive into the world of online discourse and politics. My background is in the social sciences and politics, I have started coding during the pandemic for my PhD project, since my fieldwork got cancelled.
