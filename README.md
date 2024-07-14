@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 🔍 I'm a curious and driven political data nerd with a deep dive into the world of online discourse and politics. My background is in the social sciences and politics, I have started coding during the pandemic for my PhD project, since my fieldwork got cancelled.
 
-🔭 Currently working on a couple of projects using NLP with the EU Commission and Amnesty International
+🔭 Currently working full time as a Data Analyst
 
 📊 **Skills at a Glance**:
     Data Analysis: I love digging into data! I've got solid experience in both qualitative and quantitative analysis, especially textual data analysis. NLP, machine learning, and stats - and yes, I speak Python and R fluently!
